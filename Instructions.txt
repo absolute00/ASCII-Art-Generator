@@ -1,0 +1,9 @@
+Ok.
+1. Remove "Sample.jpg" and replace it with your own.(I believe this will only work with JPG)
+2. Now go to line 23 of the "Generator.py" script. (open this with a text editor of your choice)
+THIS LINE -----> im = Image.open("Sample.jpg")
+3.Now replace it -----> im = Image.open("File Name.jpg")
+"File Name" needs to be you file you placed earlier.
+4. Run the script.
+5. Open the new txt file.
+Done
