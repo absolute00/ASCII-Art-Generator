@@ -1,5 +1,4 @@
 
-#Credit to Raphson for the tutorial on this.
 
 from PIL import Image, ImageDraw, ImageFont
 import math
